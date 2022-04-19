@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="2.1" xmlns="http://java.sun.com/xml/ns/jaxb">
+  <!--
+
+Este archivo ha sido generado por la arquitectura JavaTM para la implantación de la referencia de enlace (JAXB) XML v2.3.2 
+Visite <a href="https://javaee.github.io/jaxb-v2/">https://javaee.github.io/jaxb-v2/</a> 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2022.04.19 a las 02:02:54 PM CDT 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="https://t4is.uv.mx/agendabd">
+    <schemaBindings map="false">
+      <package name="https.t4is_uv_mx.agendabd"/>
+    </schemaBindings>
+    <bindings scd="tns:BuscarContactosResponse">
+      <class ref="https.t4is_uv_mx.agendabd.BuscarContactosResponse"/>
+    </bindings>
+    <bindings scd="tns:CrearContactoRequest">
+      <class ref="https.t4is_uv_mx.agendabd.CrearContactoRequest"/>
+    </bindings>
+    <bindings scd="tns:CrearContactoResponse">
+      <class ref="https.t4is_uv_mx.agendabd.CrearContactoResponse"/>
+    </bindings>
+    <bindings scd="tns:EliminarContactoRequest">
+      <class ref="https.t4is_uv_mx.agendabd.EliminarContactoRequest"/>
+    </bindings>
+    <bindings scd="tns:EliminarContactoResponse">
+      <class ref="https.t4is_uv_mx.agendabd.EliminarContactoResponse"/>
+    </bindings>
+  </bindings>
+</bindings>
+
