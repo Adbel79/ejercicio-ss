@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mx.uv.t4is.agendabd.agendabdApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.126 s - in mx.uv.t4is.agendabd.agendabdApplicationTests
